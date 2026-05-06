@@ -1,2 +1,30 @@
-# 5084599d-music-producer-and-artist-mana
-Comprehensive Notion workspace for music producers and independent artists managing releases, royalties, and business operations. Includes a release timeline planner with pre-release and post-release task lists, sample and loop library log with licensing status, collaborator agreement tracker, streaming revenue dashboard, sync licensing pitch pipel
+# Music Producer and Artist Management Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00wbJ112De2MaNO9rKcZb0u)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wbJ112De2MaNO9rKcZb0u)
+- [Buy on Whop](https://whop.com/music-producer-and-artist-management-notion-template)
+
